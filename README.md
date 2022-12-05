@@ -1,3 +1,7 @@
+### Comparativa de performance de Modelo Apertura de MAIL: KPP vs GCP
+
+## Modelo old (kpp) entrenado en 202101 vs nuevo modelo (gcp) entrenado en 202206. Ambos con scoring para el 202209. Se compara el rendimiento en los meses posteriores.
+
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
